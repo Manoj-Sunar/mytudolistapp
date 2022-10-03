@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mytudolistapp/static/css/main.1c755e8c.css",
+    "main.js": "/mytudolistapp/static/js/main.df0f66bf.js",
+    "static/js/787.cbb2dab6.chunk.js": "/mytudolistapp/static/js/787.cbb2dab6.chunk.js",
+    "static/media/tudolist.png": "/mytudolistapp/static/media/tudolist.cfc310264e080da80030.png",
+    "index.html": "/mytudolistapp/index.html",
+    "main.1c755e8c.css.map": "/mytudolistapp/static/css/main.1c755e8c.css.map",
+    "main.df0f66bf.js.map": "/mytudolistapp/static/js/main.df0f66bf.js.map",
+    "787.cbb2dab6.chunk.js.map": "/mytudolistapp/static/js/787.cbb2dab6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c755e8c.css",
+    "static/js/main.df0f66bf.js"
+  ]
+}
